@@ -32,6 +32,15 @@
 - 📖 **Analysis and Systems Development**\
 📆 2019 - 2021\
 📍 **Unicesumar University,** - Curitiba, Brazil
+  
+ ## Related Courses
+ 
+- Java Web Full-Stack Training, JDev Training (400 hours)
+- Java 13 Full Professional with Real Projects, Cod3r
+- Full Java Object Oriented Programming with Projects, Nélio Alves 
+- Spring ReactJS week, DevSuperior
+- Microservices with Spring Cloud, Spring Boot and Docker
+- Apache Kafka with Spring Boot
 
 ## Experience
   
