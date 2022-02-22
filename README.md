@@ -61,7 +61,7 @@ Tecnologias utilizadas
 - Primefaces
 ### Implantação em produção
 - Server: Payara
-- Banco de dados: <img align="center" alt="React" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+- Database: <img align="center" alt="React" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
 ##
 - 👨‍💻 **Financial System**\
@@ -82,7 +82,7 @@ Tecnologias utilizadas
 - Primefaces
 ### Implantação em produção
 - Server: Payara
-- Banco de dados: <img align="center" alt="React" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+- Database: <img align="center" alt="React" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   
 </details>
 
