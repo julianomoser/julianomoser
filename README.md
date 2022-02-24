@@ -34,8 +34,8 @@
 
 ### ⚡ Github Stats</b></summary>
 <p align="left">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=julianomoser&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark" />
-<img height="239em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianomoser&show_icons=true&layout=compact&langs_count=8&theme=github_dark"/>	  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianomoser&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark" />
+<img height="216em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianomoser&show_icons=true&layout=compact&langs_count=8&theme=github_dark"/>	  
 </p>
 
 
